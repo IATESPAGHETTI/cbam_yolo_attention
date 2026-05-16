@@ -1,0 +1,8 @@
+names:
+- abiotic
+- insect
+- disease
+nc: 3
+test: C:\Users\ASUS\.cache\kagglehub\datasets\karaagroaiprojects\cadi-ai\versions\1\Data\test\test\images
+train: C:\Users\ASUS\.cache\kagglehub\datasets\karaagroaiprojects\cadi-ai\versions\1\Data\train\train\images
+val: C:\Users\ASUS\.cache\kagglehub\datasets\karaagroaiprojects\cadi-ai\versions\1\Data\val\val\images

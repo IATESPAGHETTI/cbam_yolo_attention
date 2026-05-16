@@ -1,0 +1,12 @@
+__pycache__/*
+*.pyc
+.ipynb_checkpoints/
+.env
+secrets.yaml
+*.pt
+runs/
+img/
+imgs/
+saved_models/
+weights/
+*.log
